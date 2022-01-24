@@ -104,7 +104,16 @@ If you want to test this you need to install: mdADM, Git, Python3 and LVM2 in yo
 
 And make a git clone :
 
-git clone 
+git clone https://github.com/Adonis212/Automate-the-disk-partition-with-LVM
+
+
+launch the command with your parameters :
+
+python3 projet6.py -n (name)  -d /dev/(disquename)  -s (size) -fs ext4 m/mnt/name
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
